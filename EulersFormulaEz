@@ -29,9 +29,9 @@ var app_was_closed = false;
 
 // upgrade variables
 var q1, q2;
-var a1, a2, a3;
+var a1, a2, a3, a4;
 var b1, b2;
-var c1, c2;
+var c1, c2, c3, c4;
 var q = BigNumber.ONE;
 
 // sneaky sneaky
